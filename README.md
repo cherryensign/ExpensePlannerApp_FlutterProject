@@ -1,4 +1,4 @@
-# Expense Planner
+# Expense Planner App
 
 A Flutter project created by Mithilesh Ghadge in a Fluttter Android app development course on Udemy.
 
