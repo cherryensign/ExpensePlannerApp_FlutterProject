@@ -5,8 +5,6 @@ A Flutter project created by Mithilesh Ghadge in a Fluttter Android app developm
 Create a new Flutter project and just replace the files with my files (except for the folder "apk and screenshots")
 I also added apk if you only want to try the App!!!
 
-
-
 ## Getting Started
 This project is a starting point for a Flutter application.
 A few resources to get you started if you want try out this project:
