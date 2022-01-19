@@ -2,7 +2,6 @@
 
 A Flutter project created by Mithilesh Ghadge in a Fluttter Android app development course on Udemy.
 
-Create a new Flutter project and just replace the files with my files (except for the folder "apk and screenshots")
 I also added apk if you only want to try the App!!!
 
 - 👋 Hi, I’m Mithilesh Ghadge
