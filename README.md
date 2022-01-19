@@ -1,6 +1,8 @@
 # Expense Planner App
 
 A Flutter project created by Mithilesh Ghadge in a Fluttter Android app development course on Udemy.
+It includes button to add Transactions/Expenses which gives a popup form to fill all the details.
+Each Expense/Transaction appears as a card in list which displays the amount, name and date of the respective Transaction/Expense.
 
 I also added apk if you only want to try the App!!!
 
